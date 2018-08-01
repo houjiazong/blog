@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>M&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://houjiazong.com/"/>
+  <updated>2018-08-01T08:34:01.095Z</updated>
+  <id>http://houjiazong.com/</id>
+  
+  <author>
+    <name>M</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Vue的一些UI框架</title>
+    <link href="http://houjiazong.com/2018/07/30/Vue%E7%9A%84%E4%B8%80%E4%BA%9BUI%E6%A1%86%E6%9E%B6/"/>
+    <id>http://houjiazong.com/2018/07/30/Vue的一些UI框架/</id>
+    <published>2018-07-30T10:59:20.000Z</published>
+    <updated>2018-08-01T08:34:01.095Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Ant-Design-of-Vue"><a href="#Ant-Design-of-Vue" class="headerlink" title="Ant Design of Vue"></a><a href="https://vuecomponent.github.io/ant-design/docs/vue/introduce-cn/" target="_blank" rel="noopener">Ant Design of Vue</a></h3><p>介绍：Ant Design 3.X 的 Vue 实现，开发和服务于企业级后台产品</p><h3 id="ElementUI"><a href="#ElementUI" class="headerlink" title="ElementUI"></a><a href="https://element-cn.eleme.io/#/zh-CN" target="_blank" rel="noopener">ElementUI</a></h3><p>介绍：Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库</p><h3 id="cube-ui"><a href="#cube-ui" class="headerlink" title="cube-ui"></a><a href="https://didi.github.io/cube-ui/#/zh-CN/example" target="_blank" rel="noopener">cube-ui</a></h3><p>介绍：滴滴Web 移动端组件库cube-ui, 基于 Vue.js 实现的精致移动端组件库</p><h3 id="VUX"><a href="#VUX" class="headerlink" title="VUX"></a><a href="https://github.com/airyland/vux" target="_blank" rel="noopener">VUX</a></h3><p>介绍：移动端 UI 组件库</p><h3 id="vue-weui"><a href="#vue-weui" class="headerlink" title="vue-weui"></a><a href="https://github.com/aidenZou/vue-weui" target="_blank" rel="noopener">vue-weui</a></h3><p>介绍：针对 Vue 框架移植的 We UI 框架的适配</p><h3 id="we-vue"><a href="#we-vue" class="headerlink" title="we-vue"></a><a href="https://github.com/tianyong90/we-vue" target="_blank" rel="noopener">we-vue</a></h3><p>介绍：使用 Vue2.x + weui1.x 开发的组件</p><h3 id="Vue-Layout"><a href="#Vue-Layout" class="headerlink" title="Vue-Layout"></a><a href="https://jaweii.github.io/Vue-Layout/dist/#/" target="_blank" rel="noopener">Vue-Layout</a></h3><p>介绍：vue可视化布局</p><h3 id="Mint-UI"><a href="#Mint-UI" class="headerlink" title="Mint UI"></a><a href="https://mint-ui.github.io/#!/zh-cn" target="_blank" rel="noopener">Mint UI</a></h3><p>介绍：基于 Vue.js 的移动端组件库</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;Ant-Design-of-Vue&quot;&gt;&lt;a href=&quot;#Ant-Design-of-Vue&quot; class=&quot;headerlink&quot; title=&quot;Ant Design of Vue&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://vuecomponent.githu
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://houjiazong.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="Vue" scheme="http://houjiazong.com/tags/Vue/"/>
+    
+      <category term="FE" scheme="http://houjiazong.com/tags/FE/"/>
+    
+      <category term="JS" scheme="http://houjiazong.com/tags/JS/"/>
+    
+  </entry>
+  
+</feed>
